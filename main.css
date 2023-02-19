@@ -1,4 +1,5 @@
 
+
 .signup-body{
     background-color: white;
 }
@@ -256,3 +257,19 @@ html, body{
     top: 460px;
     left: 260px;
 }
+
+.header-img{
+    height: 400px;
+    overflow: auto;
+    float: right;
+    margin-right: 13%;
+}
+
+hr{
+    width: 60%;
+}
+
+/* .photo-buttons{
+    width:max-content
+} */
+
