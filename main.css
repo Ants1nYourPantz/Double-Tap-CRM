@@ -1,0 +1,258 @@
+
+.signup-body{
+    background-color: white;
+}
+
+html, body{
+    height: 100%;
+}
+
+.flexbox-container{
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    display: flex;
+}
+
+.flexbox-item-1{
+    width: 50%;
+    height: 100%;
+}
+
+.flexbox-item-2{
+    width: 50%;
+    height: 100%;
+}
+
+.no-account{
+    color: white;
+    position: absolute;
+    top: 90px;
+    left: 135px;
+}
+
+.fix-that{
+    color: white;
+    position: absolute;
+    top: 120px;
+    left: 90px;
+}
+
+.button-1{
+    background-color: blue;
+    border: 2px solid white;
+    border-radius: 25px;
+    color: white;
+    width: 100px;
+    position: absolute;
+    top: 160px;
+    left: 190px;
+}
+
+.image-background{
+    background-color: blue;
+    height: 100%;
+    clip-path: ellipse(64% 82% at 25% 18%);
+}
+
+.sign_in{
+    position: absolute;
+    top: 90px;
+    right: 310px;
+}
+
+.bar-1{
+    border-radius: 25px;
+    width: 260px;
+    position: absolute;
+    top: 160px;
+    right: 225px;
+}
+
+.bi-person{
+    position: absolute;
+    top: 168px;
+    right: 460px; 
+
+}
+
+.bar-2{
+    border-radius: 25px;
+    width: 260px;
+    position: absolute;
+    top: 230px;
+    right: 225px; 
+}
+
+.bi-envelope{
+    position: absolute;
+    top: 238px;
+    right: 460px;
+}
+
+.bar-3{
+    border-radius: 25px;
+    width: 260px;
+    position: absolute;
+    top: 300px; 
+    right: 225px;
+}
+
+.bi-lock-fill{
+    position: absolute;
+    top: 310px;
+    right: 460px;
+}
+
+.sign_button{
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    width: 100px;
+    border: white;
+    position: absolute;
+    top: 380px;
+    right: 300px;
+}
+
+.or-plat{
+    position: absolute;
+    top: 420px;
+    right: 255px;
+}
+
+.bi-facebook{
+    position: absolute;
+    top: 460px;
+    right: 390px;
+}
+
+.bi-twitter{
+    position: absolute;
+    top: 460px;
+    right: 360px;
+}
+
+.bi-google{
+    position: absolute;
+    top: 460px;
+    right: 320px;
+}
+
+.bi-linkedin{
+    position: absolute;
+    top:460px;
+    right: 290px;
+}
+
+.flexbox-container-1{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.flexbox-item-a{
+    height: 100%;
+    width: 40%;
+}
+
+.flex-item-b{
+    height: 100%;
+    width: 60%;
+}
+
+.lady{
+    width: 50%;
+    position: absolute;
+    top: 150px;
+}
+
+.sign-up-1{
+    position:absolute;
+    top: 90px;
+    left: 100px;
+}
+
+.bar-a{
+    border-radius: 25px;
+    width: 260px;
+    position: absolute;
+    top: 180px;
+    left: 70px;
+}
+
+.bi-person1{
+    position: absolute;
+    top: 188px;
+    left: 80px;
+}
+
+.bar-b{
+    border-radius: 25px;
+    width: 260px;
+    position: absolute;
+    top: 240px;
+    left: 70px;
+}
+
+.bi-envelope1{
+    position: absolute;
+    top: 248px;
+    left: 80px;
+}
+
+.bar-c{
+    border-radius: 25px;
+    width: 260px;
+    position: absolute;
+    top: 300px;
+    left: 70px;
+}
+
+.bi-lock-fill1{
+    position: absolute;
+    top: 308px;
+    left: 80px;
+}
+
+.sign_button-a{
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    width: 100px;
+    border: white;
+    position: absolute;
+    top: 370px;
+    left: 155px;
+}
+
+.or-plat2{
+    position: absolute;
+    top: 415px;
+    left: 100px;
+}
+
+.bi-facebook1{
+    position: absolute;
+    top: 460px;
+    left: 110px;
+
+}
+
+.bi-twitter1{
+    position: absolute;
+    top: 460px;
+    left: 160px;
+}
+
+.bi-google1{
+    position: absolute;
+    top: 460px;
+    left: 210px;
+}
+
+.bi-linkedin1{
+    position: absolute;
+    top: 460px;
+    left: 260px;
+}
