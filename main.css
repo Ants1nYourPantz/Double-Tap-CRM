@@ -9,6 +9,10 @@ hr{
     width: 60%;
 }
 
-/* .photo-buttons{
-    width:max-content
-} */
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+navbar{
+    min-width: 100%;
+}
